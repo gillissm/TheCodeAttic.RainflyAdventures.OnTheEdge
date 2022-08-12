@@ -1,0 +1,44 @@
+{
+    "namespace": "Projct.RainflyTours",
+    "references": [
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "site-content",
+                "path": "/sitecore/content/rainflytours",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/content/rainflytours",
+                        "alias": "content"
+                    }
+                ]
+            },
+            {
+                "name": "site-media",
+                "path": "/sitecore/media library/rainflytours",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/media library/rainflytours",
+                        "alias": "media"
+                    }
+                ]
+            },
+            {
+                "name": "site-templates",
+                "path": "/sitecore/templates/Project/RainflyTours",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/templates/Project/RainflyTours",
+                        "alias": "site-templates"
+                    }
+                ]
+            }
+            
+        ]
+    }
+}
+

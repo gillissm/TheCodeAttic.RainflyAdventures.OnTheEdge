@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "C:\\TheCodeAttic\\TheCodeAttic.Learning.SitecoreHeadless\\RainflyTours\\docker\\deploy\\platform",
+    "layoutServiceHost": "https://cm.rainflytours.com",
+    "deployUrl": "https://cm.rainflytours.com/sitecore/api/jss/import",
+    "apiKey": "69671FC1-AFC9-42E8-9DE3-0A5E3416B3CF",
+    "deploySecret": "e9FfylLv4ZJ4yJR7YN84GPlIYyp668r47WQrXLjZTSV2f8ZKVA6kd9h7olimvjOm"
+  }
+}

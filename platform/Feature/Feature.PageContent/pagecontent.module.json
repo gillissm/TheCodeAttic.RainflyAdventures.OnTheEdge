@@ -1,0 +1,32 @@
+{
+    "namespace": "Feature.PageContent",
+    "references": [
+    ],
+    "items": {
+        "includes": [
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Feature/Page-Content",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/templates/Feature/Page-Content",
+                        "alias": "PCTemplates"
+                    }
+                ]
+            },
+            {
+                "name": "rendering-artifacts",
+                "path": "/sitecore/layout/Renderings/Feature/Page-Content",
+                "scope": "ItemAndDescendants",
+                "rules": [
+                    {
+                        "path": "/layout/Renderings/Feature/Page-Content",
+                        "alias": "PCRenderings"
+                    }
+                ]
+            }
+        ]
+    }
+}
+
