@@ -1,0 +1,36 @@
+﻿---
+ID: "012d5c34-8b18-413f-953e-5d83f8ee4a8c"
+Parent: "4c491e39-a6da-48bb-91d1-244d04aa1658"
+Template: "d14fcd55-b674-400d-8e20-a9aad0f19362"
+Path: /sitecore/content/rainflytours/Home/WelcomePromo
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220608T042738Z
+    - ID: "3a68d541-b88f-4f92-ae69-dfd6ff0fbdc7"
+      Hint: Headline
+      Value: "Welcome, to Rainfly Tours!"
+    - ID: "5f7a1f30-4660-4241-afc1-3cbf2401cba9"
+      Hint: ActionLink
+      Value: |
+        <link linktype="external" text="Follow me to learn more" url="http://symposium.sitecore.com" anchor="" target="" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2ae87717-8e8a-4286-929c-283bf01f4332"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220704T160639Z
+    - ID: "f7550dea-b2b4-40c1-b508-7a0057baec8a"
+      Hint: Copy
+      Value: "Are you prepared for the <i>most</i>&nbsp;<i>exciting</i>&nbsp;adventure of your <b>life?</b>"
